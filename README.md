@@ -14,7 +14,7 @@ This project aims to perform customer segmentation based on purchasing behavior 
   
 
 **Project Files**:
-- `customer_personality_analysis.ipynb`: Jupyter notebook with all the code and analysis.
+- `final_customersegmentation_maveric_project_updated_v2.ipynb`: Jupyter notebook with all the code and analysis.
 - `data/`: Folder containing the dataset used for this analysis.
 - `README.md`: Overview of the project.
 ## Cluster Visualizations
