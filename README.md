@@ -44,7 +44,7 @@ The AUC score of the ROC curve is 1.00, indicating excellent model performance.
 Check out the Tableau dashboard for customer segmentation:  
 [Live Tableau Dashboard](https://public.tableau.com/views/Customer_Segmentation_RFM_analysis/CustomerSegmentation?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Customer Segmentation Dashboard](data/mtdashboard.png)
+![Customer Segmentation Dashboard](images/mtdashboard.png)
 
 
 ## Features
