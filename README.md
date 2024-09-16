@@ -47,7 +47,7 @@ Check out the Tableau dashboard for customer segmentation:
 ![Customer Segmentation Dashboard](images/mtdashboard.png)
 
 
-### Features
+## Features
 - **Customer Segmentation**: Groups customers based on their RFM scores, showing the distribution of segments like Champions, At Risk, Promising, and others.
 - **Recency Trends**: Line chart illustrating recency trends over time.
 - **Customer Spending Patterns**: Scatter plot analyzing the number of purchases against purchase frequency.
