@@ -34,3 +34,8 @@ Below is the ROC curve for the XGBoost model used for classification:
 ![ROC Curve](images/roc_curve.png)
 
 The AUC score of the ROC curve is 1.00, indicating excellent model performance.
+
+## Demo
+Check out the live demo here:  
+[Dashboard](https://public.tableau.com/views/Customer_Segmentation_RFM_analysis/CustomerSegmentation?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
