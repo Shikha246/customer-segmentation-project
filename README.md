@@ -35,7 +35,25 @@ Below is the ROC curve for the XGBoost model used for classification:
 
 The AUC score of the ROC curve is 1.00, indicating excellent model performance.
 
+
+# Customer Segmentation and RFM Analysis Dashboard
+
+- This project focuses on customer segmentation using RFM (Recency, Frequency, Monetary) analysis. By segmenting customers based on their purchasing behaviors, we can identify key customer groups and tailor business strategies accordingly. The project includes a Tableau dashboard that visualizes the RFM analysis and provides insights into customer segments.
+
 ## Demo
-Check out the live demo here:  
-[Dashboard](https://public.tableau.com/views/Customer_Segmentation_RFM_analysis/CustomerSegmentation?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Check out the Tableau dashboard for customer segmentation:  
+[Live Tableau Dashboard](https://public.tableau.com/views/Customer_Segmentation_RFM_analysis/CustomerSegmentation?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Customer Segmentation Dashboard](data/mtdashboard.png)
+
+
+## Features
+- **RFM Analysis**: Segmentation of customers based on Recency, Frequency, and Monetary value of their transactions.
+- **Interactive Tableau Dashboard**: Allows users to explore different customer segments and analyze key metrics.
+- **Customer Insights**: Identify loyal customers, at-risk customers, and high-value customers for targeted marketing strategies.
+
+## Technologies Used
+- **Data Visualization**: Tableau
+- **Data Analysis**: RFM (Recency, Frequency, Monetary) framework
+- **Tools**: Python,Tableau
 
